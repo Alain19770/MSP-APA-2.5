@@ -1,1 +1,1 @@
-# MSP-APA-2.5
+# MSP-APA-2.5 Este es una especie de emulador para servidores de minecraft, espero que este espacio se use con diligencia segun. LUCAST uno de los creadores y participes de el desarollo de este proyecto. . .
